@@ -388,7 +388,7 @@ export default function TopicObject({ type }) {
         scale={5}
         blur={2.5}
       />
-      <Environment preset="studio" />
+      <Environment files="/hdri/studio_small_03_1k.hdr" />
     </>
   );
 }
